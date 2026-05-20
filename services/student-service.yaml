@@ -4,9 +4,9 @@ spring:
       enabled: true
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/db-capstone
+    url: jdbc:postgresql://35.234.212.63:5432/student_db
     username: postgres
-    password: psql
+    password: 'eqA3emFRbCjJY`r0'
     driver-class-name: org.postgresql.Driver
 
   jpa:
