@@ -11,6 +11,6 @@ management:
 
 logging:
   level:
-    lk.ijse.eca: DEBUG
-    org.springframework.web: INFO
-    org.hibernate.SQL: DEBUG
+    "[lk.ijse.eca]": DEBUG
+    "[org.springframework.web]": INFO
+    "[org.hibernate.SQL]": DEBUG
